@@ -9,6 +9,10 @@
   "author": "kalson",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.3.1"
+    "express": "^4.17.1",
+    "foreman": "^3.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4"
   }
 }
